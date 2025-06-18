@@ -23,8 +23,8 @@ Laporan ini juga dilengkapi dengan screenshot hasil implementasi untuk mendukung
 
 | Atribut         | Keterangan            |
 | --------------- | --------------------- |
-| **Nama**        | Alvin Alfandy         |
-| **NIM**         | 312310473             |
+| **Nama**        | Andika Setiawan       |
+| **NIM**         | 312310470             |
 | **Kelas**       | TI.23.A.5             |
 | **Mata Kuliah** | Pemrograman Website 2 |
 
