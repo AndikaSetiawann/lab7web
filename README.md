@@ -51,7 +51,7 @@ Laporan ini juga dilengkapi dengan screenshot hasil implementasi untuk mendukung
 
 📷 **Screenshot Konfigurasi PHP.ini:**
 
-![alt text](gambar/image.png)
+![alt text](gambar/gambar1.png)
 
 ---
 
@@ -64,7 +64,7 @@ Laporan ini juga dilengkapi dengan screenshot hasil implementasi untuk mendukung
 
 📷 **Screenshot Tampilan Codeigniter 4:**
 
-![alt text](gambar/image-1.png)
+![alt text](<gambar/gambar 2.png>)
 
 ---
 
@@ -77,7 +77,7 @@ php spark
 
 📷 **Screenshot Hasil Perintah CLI:**
 
-![alt text](gambar/image-2.png)
+![alt text](<gambar/gambar 3.png>)
 
 ---
 
@@ -90,7 +90,7 @@ CI_ENVIRONMENT = development
 
 📷 **Screenshot Konfigurasi Debugging:**
 
-![alt text](gambar/image-3.png)
+![alt text](<gambar/gambar 4.png>)
 
 ---
 
@@ -110,8 +110,9 @@ php spark routes
 
 📷 **Screenshot CLI & Error Page:**
 
-![alt text](gambar/image-5.png)
-![alt text](gambar/image-6.png)
+![alt text](<gambar/gambar 5.png>)
+![alt text](<gambar/gambar 6.png>)
+
 
 ---
 
@@ -131,7 +132,7 @@ class Page extends BaseController {
 
 📷 **Screenshot Tampilan About Page:**
 
-![alt text](gambar/image-7.png)
+![alt text](<gambar/gambar 7.png>)
 
 ---
 
@@ -154,7 +155,7 @@ Buat file `app/Views/about.php`:
 
 📷 **Screenshot Tampilan View About Page:**
 
-![alt text](gambar/image-12.png)
+![alt text](<gambar/gambar 8.png>)
 
 ---
 
@@ -173,7 +174,7 @@ Buat file `app/Views/about.php`:
 
 📷 **Screenshot :**
 
-![alt text](gambar/image-9.png)
+![alt text](<gambar/gambar 9.png>)
 
 ### 📌 9. 🚀 Menambahkan Halaman Baru (Services) dan (Artikel)
 
@@ -219,7 +220,7 @@ Jika semua sudah berjalan dengan baik, halaman `Services` akan tampil dengan inf
 
 📷 **Screenshot Tampilan Halaman Services:**
 
-![alt text](gambar/image-10.png)
+![alt text](<gambar/gambar 10.png>)
 Pada langkah ini, kita akan menambahkan halaman baru bernama `Services` agar dapat diakses melalui URL.
 
 ## 📄 Menambahkan Halaman Artikel
@@ -265,7 +266,7 @@ http://localhost:8080/artikel
 Jika semua sudah berjalan dengan baik, halaman `Artikel` akan tampil dengan kontennya. 🎉
 
 📷 **Screenshot Tampilan Halaman Artikel:**
-![alt text](gambar/image-11.png)
+![alt text](<gambar/gambar 11.png>)
 
 ✅ Kesimpulan
 
