@@ -51,7 +51,7 @@ Laporan ini juga dilengkapi dengan screenshot hasil implementasi untuk mendukung
 
 📷 **Screenshot Konfigurasi PHP.ini:**
 
-![alt text](gambar/gambar1.png)
+![alt text](<gambar/gambar 1.png>)
 
 ---
 
