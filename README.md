@@ -348,14 +348,13 @@ CREATE TABLE artikel (
     PRIMARY KEY(id)
 );
 ```
-
-![alt text](gambar/praktikum2-1.png)
+![alt text](<gambar/g1 praktikum2.png>)
 
 ### 3. Konfigurasi koneksi database
 
 Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada file .env.
 
-![alt text](gambar/praktikum2-2.png)
+![alt text](<gambar/g2 praktikum2.png>)
 
 ### 4. Membuat Model
 
@@ -374,8 +373,7 @@ class ArtikelModel extends Model
     protected $allowedFields = ['judul', 'isi', 'status', 'slug', 'gambar'];
 }
 ```
-
-![alt text](gambar/praktikum2-3.png)
+![alt text](<gambar/g3 praktikum2.png>)
 
 ### 5. Membuat Controller
 
@@ -397,8 +395,7 @@ class Artikel extends BaseController
     }
 }
 ```
-
-![alt text](gambar/praktikum2-4.png)
+![alt text](<gambar/g4 praktikum2.png>)
 
 ### 6. Membuat View
 
@@ -422,14 +419,13 @@ Buat direktori baru dengan nama artikel pada direktori app/views, kemudian buat 
 
 <?= $this->include('template/footer'); ?>
 ```
-
-![alt text](gambar/praktikum2-5.png)
+![alt text](<gambar/g5 praktikum2.png>)
 
 ### 7. Akses dengan browser
 
 Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
 
-![alt text](gambar/praktikum2-6.png)
+![alt text](<gambar/g6 praktikum2.png>)
 
 ### 8. Menambahkan Data Artikel
 
@@ -441,7 +437,7 @@ INSERT INTO artikel (judul, isi, slug) VALUE
 ('Artikel kedua', 'Tidak seperti anggapan banyak orang, Lorem Ipsum bukanlah teks-teks yang diacak. Ia berakar dari sebuah naskah sastra latin klasik dari era 45 sebelum masehi, hingga bisa dipastikan usianya telah mencapai lebih dari 2000 tahun.', 'artikel-kedua');
 ```
 
-![alt text](gambar/praktikum2-7.png)
+![alt text](<gambar/g7 praktikum2.png>)
 
 ### 9. Membuat Tampilan Detail Artikel
 
@@ -489,8 +485,7 @@ Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artike
 ```php
 $routes->get('/artikel/(:any)', 'Artikel::view/$1');
 ```
-
-![alt text](gambar/praktikum2-8.png)
+![alt text](<gambar/g8 praktikum2.png>)
 
 ### 12. Membuat Menu Admin
 
