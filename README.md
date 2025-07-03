@@ -616,7 +616,7 @@ Kemudian buat view untuk form tambah dengan nama form_add.php
 <?= $this->include('template/admin_footer'); ?>
 ```
 
-![alt text](gambar/gambarpraktikum2-11.png)
+![alt text](<gambar/g10 praktikum2.png>)
 
 ### 17. Mengubah Data
 
