@@ -668,7 +668,7 @@ Kemudian buat view untuk form tambah dengan nama form_edit.php
 <?= $this->include('template/admin_footer'); ?>
 ```
 
-![alt text](gambar/gambarpraktikum12.png)
+![alt text](<gambar/g11 praktikum2.png>)
 
 ### 19. Menghapus Data
 
@@ -752,7 +752,7 @@ Buat file main.php di dalam folder layout dengan kode berikut:
 </html>
 ```
 
-![alt text](gambar/praktikum3-1.png)
+![alt text](<gambar/g12 praktikum2.png>)
 
 ### 2. Modifikasi File View
 
