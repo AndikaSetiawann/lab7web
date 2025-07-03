@@ -752,7 +752,7 @@ Buat file main.php di dalam folder layout dengan kode berikut:
 </html>
 ```
 
-![alt text](<gambar/g12 praktikum2.png>)
+![alt text](<gambar/img1 praktikum3.png>)
 
 ### 2. Modifikasi File View
 
