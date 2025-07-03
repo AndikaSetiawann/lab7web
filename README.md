@@ -932,7 +932,7 @@ else : ?>
 <?= $this->include('template/footer'); ?>
 ```
 
-![alt text](gambar/praktikum3-10.png)
+![alt text](<gambar/img9 praktikum3.png>)
 
 ### 12. Modifikasi View Detail Artikel
 
@@ -952,7 +952,7 @@ Ubah file app/Views/artikel/detail.php:
 <?= $this->include('template/footer'); ?>
 ```
 
-![alt text](gambar/praktikum3-11.png)
+![alt text](<gambar/img10 praktikum3.png>)
 
 ## Pertanyaan dan Jawaban
 
