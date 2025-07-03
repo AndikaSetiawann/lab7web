@@ -767,7 +767,7 @@ Ubah app/Views/home.php agar sesuai dengan layout baru:
 <?= $this->endSection() ?>
 ```
 
-![alt text](gambar/praktikum3-2.png)
+![alt text](<gambar/img2 praktikum3.png>)
 
 ### 3. Menampilkan Data Dinamis dengan View Cell
 
@@ -795,7 +795,7 @@ class ArtikelTerkini extends Cell
 }
 ```
 
-![alt text](gambar/praktikum3-3.png)
+![alt text](<gambar/img3 praktikum3.png>)
 
 ### 5. Membuat View untuk View Cell
 
@@ -811,7 +811,7 @@ Buat file artikel_terkini.php di dalam app/Views/components/ dengan kode berikut
 </ul>
 ```
 
-![alt text](gambar/praktikum3-4.png)
+![alt text](<gambar/img4 praktikum3.png>)
 
 ### 6. Modifikasi Database: Menambahkan Field created_at
 
@@ -822,8 +822,7 @@ ALTER TABLE artikel
 ADD COLUMN created_at DATETIME DEFAULT CURRENT_TIMESTAMP;
 ```
 
-![alt text](gambar/praktikum3-5.png)
-
+![alt text](<gambar/img5 praktikum3.png>)
 ### 7. Update Data Artikel dengan Tanggal
 
 Untuk artikel yang sudah ada, kita perlu mengupdate field created_at:
@@ -832,7 +831,7 @@ Untuk artikel yang sudah ada, kita perlu mengupdate field created_at:
 UPDATE artikel SET created_at = CURRENT_TIMESTAMP;
 ```
 
-![alt text](gambar/praktikum3-7.png)
+![alt text](<gambar/img6 praktikum3.png>)
 
 ### 8. Modifikasi Model ArtikelModel
 
@@ -883,14 +882,14 @@ class Home extends BaseController
 
 ```
 
-![alt text](gambar/praktikum3-9.png)
+![alt text](<gambar/img7 praktikum3.png>)
 
 ### 10. Lihat Hasil Tampilan
 
 Akses halaman home melalui browser untuk melihat hasil tampilan dengan layout baru:
 http://localhost:8080/
 
-![alt text](gambar/praktikum3-8.png)
+![alt text](<gambar/img8 praktikum3.png>)
 
 ### 11. Modifikasi View Artikel
 
