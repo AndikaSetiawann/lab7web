@@ -565,7 +565,7 @@ $routes->group('admin', function($routes) {
 
 Akses menu admin dengan url http://localhost:8080/admin/artikel
 
-![alt text](gambar/praktikum2-9.png)
+![alt text](gambar/g8praktikum2.png)
 
 ### 15. Menambah Data Artikel
 
