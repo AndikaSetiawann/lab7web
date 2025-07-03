@@ -485,7 +485,7 @@ Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artike
 ```php
 $routes->get('/artikel/(:any)', 'Artikel::view/$1');
 ```
-![alt text](<gambar/g8 praktikum2.png>)
+![alt text](<gambar/g9 praktikum2.png>)
 
 ### 12. Membuat Menu Admin
 
